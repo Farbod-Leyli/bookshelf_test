@@ -1,0 +1,25 @@
+{
+  "name": "newtest",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "email-validator": "^2.0.4",
+    "express": "^4.16.4",
+    "express-slash": "^2.0.1",
+    "express-uncapitalize": "^1.0.0",
+    "forever": "^0.15.3",
+    "js-md5": "^0.7.3",
+    "jsonwebtoken": "^8.4.0",
+    "jwt-decode": "^2.2.0",
+    "mongoose": "^5.4.1",
+    "morgan": "^1.9.1",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^4.7.0",
+    "password-hash": "^1.2.2",
+    "socket.io": "^2.1.1",
+    "ua-parser-js": "^0.7.19"
+  }
+}
